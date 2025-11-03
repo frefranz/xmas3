@@ -1,5 +1,5 @@
 # xmas3
-xmas tree with animated snowflakes, plain bash ascii character graphics
+Show an xmas tree with snowflakes, animated with plain ascii characters
 
 Legacy Borland Turbo Pascal program from the early nineties (of the last century :-), which was designed to run on a legacy IBM Personal Computer XT/AT.
 The very first version, dating bak into the late eightees, was even written to work with a Qume Terminal connected over a serial interface.
@@ -11,4 +11,7 @@ Amazingly, the ancient Turbo Pascal program turned out to be still flawlessly co
 So I thought I should publicly share my experience. Enjoy!
 
 There is also a preproduced docker image ready to run, checkout https://hub.docker.com/repository/docker/fraf1902/xmas3
+Alternatively build your own container to run it on your hw/sw environment with the Dockerfile provided.
+
+Have fun!
 
