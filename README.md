@@ -1,5 +1,5 @@
 # xmas3
-Shows an xmas tree with snowflakes, animated with plain ascii characters
+Shows an xmas tree with snowflakes, animated using plain ascii characters
 
 Legacy Borland Turbo Pascal program from the early nineties (of the last century :-), which was designed to run on a legacy IBM Personal Computer XT/AT.
 The very first version, dating bak into the late eightees, was even written to work with a Qume Terminal connected over a serial interface.
